@@ -1,10 +1,79 @@
 ---
-title: "Ford Holland"
-output: 
+title:  
+output:
   html_document:
     toc: true
 ---
+<br>
 
+
+<style>
+.main-container {
+  max-width: 1800px;
+  margin-left: 175px;
+  margin-right: 175px;
+}
+.column-left{
+  float: left;
+  width: 35%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 62%;
+  text-align: left;
+}
+h1 {
+  font-size: 32px;
+}
+h1.title {
+  font-size: 32px;
+}
+h2 {
+  font-size: 28px;
+}
+h3 {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 100;
+}
+h4 {
+  font-size: 20px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+</style>
+
+```{html, include = FALSE}
+<style>
+.column-left{
+  float: left;
+  width: 33%;
+  text-align: left;
+}
+.column-center{
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
+.column-right{
+  float: right;
+  width: 33%;
+  text-align: right;
+}
+</style>
+```
+
+
+
+<div class="column-left">
+
+
+<br><img src="images/ford_holland.png" style="width:70%; border:10px solid"><br><br>
 
 **Data Analyst** <br>
 Memorial Sloan Kettering Cancer Center <br>
@@ -12,24 +81,19 @@ Memorial Sloan Kettering Cancer Center <br>
 **MS Candidate in Biostatistics** <br>
 Columbia University Mailman School of Public Health
 
-<br><img src="images/ford_holland.png" style="width:30%; border:10px solid"><br><br>
+
+</div>
 
 
-#### About 
+<div class="column-right">
 
-I graduated from [Davidson College](https://www.davidson.edu) in 2017 with a degree in economics and computer science. Since then I have worked at Memorial Sloan Kettering Cancer Center where I develop statistical models to compare surgeon performance and build personalized health reports for clinicians and patients using patient reported outcome data. 
+#### About
+
+I graduated from [Davidson College](https://www.davidson.edu) in 2017 with a degree in economics and computer science. Since then I have worked at Memorial Sloan Kettering Cancer Center where I develop statistical models to compare surgeon performance and build personalized health reports for clinicians and patients using patient reported outcome data.
 
 In 2019 I began working toward my MS in biostatistics as a part-time student at [Columbia University.](http://www.mailman.columbia.edu/academic-departments/biostatistics)
 
-
-
-
-
-
-
-
-
-
+</div>
 
 
 

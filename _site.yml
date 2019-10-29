@@ -1,16 +1,18 @@
 name: "Yay internet!"
 output_dir: "."
 navbar:
-  title: "Home"
+  title: "Ford Holland"
   right:
-    - text: "About"
+    - text: "Experience"
       href: about_me.html
     - text: "Plotly"
       href: plotly.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:fordholland@gmail.com>
     - icon: fa-github fa-lg
       href: http://github.com/fordholland/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/fordholland
 output:
   html_document:
     theme: flatly
