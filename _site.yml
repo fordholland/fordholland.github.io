@@ -5,8 +5,8 @@ navbar:
   right:
     - text: "Experience"
       href: about_me.html
-    - text: "Plotly"
-      href: plotly.html
+    - text: "Problem 2 - dashboard"
+      href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:fordholland@gmail.com>
     - icon: fa-github fa-lg
