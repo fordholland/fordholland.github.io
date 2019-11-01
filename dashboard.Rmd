@@ -7,6 +7,7 @@ output:
     vertical_layout: fill
 ---
 
+
 ```{r setup, include=FALSE}
 library(flexdashboard)
 library(tidyverse)
@@ -20,9 +21,6 @@ data(ny_noaa)
 set.seed(1)
 ny_noaa = sample_n(ny_noaa, 1000)
 ```
-
-## Plotly examples
-
 
 Column {data-width=650}
 -----------------------------------------------------------------------
