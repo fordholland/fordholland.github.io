@@ -8,7 +8,7 @@ navbar:
     - text: "Problem 2 - dashboard"
       href: dashboard.html
     - icon: fa-envelope fa-lg
-      href: mailto:fordholland@gmail.com>
+      href: mailto:fordholland@gmail.com
     - icon: fa-github fa-lg
       href: http://github.com/fordholland/
     - icon: fa-linkedin fa-lg
