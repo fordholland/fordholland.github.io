@@ -4,7 +4,7 @@ navbar:
   title: "Ford Holland"
   right:
     - text: "Experience"
-      href: about_me.html
+      href: experience.html
     - text: "Problem 2 - dashboard"
       href: dashboard.html
     - icon: fa-envelope fa-lg
