@@ -1,30 +1,77 @@
----
-title: "Resume"
-output:
-  html_document:
-    toc: true
----
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+ <br>
+ 
+#### WORK EXPERIENCE  
 
-## R Markdown
+**Memorial Sloan Kettering Cancer Center**   
+*Data Analyst – Epidemiology and Biostatistics Dept.*     					                    
+*July 2017 - Present*
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+* Develop risk-adjusted statistical models to compare surgeon performance across multiple surgical outcomes
+* Present analytic results to surgical services within and without the institution
+* Build personalized patient and clinician reports containing prediction models for key health outcomes from medical survey response data
+* Process data feeds and implement database schema and logic
+* Design analytic tools for clinical staff
+* Completed updates for five surgical-feedback services in 2018
+* Created and presented a tutorial on data visualization to the R user community of biostatisticians
+* Contribute to two MSK statistical programming packages for R
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+**Encap Security**  		          			       	 			                                     
+*Project Contractor*     										   
+*April 2017- June 2017*
 
-```{r cars}
-summary(cars)
-```
+* Developed Python script to enhance current authentication demonstration 
+* Integrated authentication demonstration with Amazon Alexa
+* Used Amazon Web Services to host application remotely
 
-## Including Plots
+**AllClear ID**  				              		               	        		                   
+*Quality Assurance Engineer*  					                   	                       *June-August 2015*  
 
-You can also embed plots, for example:
+* Ensured new software modules met functional design and quality requirements 
+* Facilitated switch from manual to automated testing environment using Selenium WebDriver 
+* Reduced testing time for new software modules from 3 days to a matter of hours, speeding new feature delivery to customers  
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+<br>
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+#### EDUCATION
+
+**Columbia University Mailman School of Public Health**  
+*MS Candidate, Biostatistics*  
+*Expected 2021*
+
+**Davidson College**  
+*BA, Economics, Minor in Computer Science*  
+*2017*
+
+<br>
+
+#### SERVICE & COMMUNITY INVOLVEMENT
+
+**U.S. Food System Symposium**  
+*Director of Technology*  
+*Spring 2016*
+
+* Helped plan a student-led, multi-institutional symposium on food production and consumption issues
+* Assisted in developing website and facilitated online registration
+* Worked with symposium development team to recruit leading experts in food systems
+
+**E2D – Eliminate the Digital Divide** 
+*Volunteer*  
+*2014-2016*
+
+* Set up low-cost computers for distribution to low-income families 
+* Raised awareness and promoted goal of providing every student in Charlotte-Mecklenburg schools with a computer  
+
+<br>
+
+#### SKILLS  
+* Advanced skills in R, SQL, Python, SAS, Stata, & Git 
+
+<br>
+<br>
+
+

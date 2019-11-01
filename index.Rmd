@@ -89,6 +89,8 @@ Columbia University Mailman School of Public Health
 
 #### About
 
+I'm a data analytics professional with a passion for cancer research and improving health outcomes for patients. 
+
 I graduated from [Davidson College](https://www.davidson.edu) in 2017 with a degree in economics and computer science. Since then I have worked at Memorial Sloan Kettering Cancer Center where I develop statistical models to compare surgeon performance and build personalized health reports for clinicians and patients using patient reported outcome data.
 
 In 2019 I began working toward my MS in biostatistics as a part-time student at [Columbia University.](http://www.mailman.columbia.edu/academic-departments/biostatistics)
