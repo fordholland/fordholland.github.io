@@ -1,8 +1,8 @@
 ---
-title: "My first dashboard"
+title: "Problem 2 - dashboard"
 output: 
-  toc: true
   flexdashboard::flex_dashboard:
+    toc: true
     orientation: columns
     vertical_layout: fill
 ---
