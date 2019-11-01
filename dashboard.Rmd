@@ -1,10 +1,10 @@
 ---
 title: "My first dashboard"
 output: 
+  toc: true
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
-    toc: true
 ---
 
 #### to knit dashboard within website, either build the whole website, or be specific in what gets knitted:
